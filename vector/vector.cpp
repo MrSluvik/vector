@@ -21,9 +21,13 @@ using namespace std;
 class MinElement
 {
 public:
-	int operator ()(int v) 
+	int operator ()(int v)
 	{
 
+	}
+	void foo()
+	{
+		cout << "i foo" << endl;
 	}
 
 private:
