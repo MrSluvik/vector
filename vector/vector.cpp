@@ -27,7 +27,7 @@ public:
 	}
 	void foo()
 	{
-		cout << "i foo" << endl;
+		cout << "i foo dd" << endl;
 	}
 
 private:
